@@ -1,0 +1,3 @@
+openai>=1.30.0
+gnani-vachana
+reportlab>=4.0
