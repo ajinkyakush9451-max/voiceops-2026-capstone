@@ -1,0 +1,5 @@
+MISSING OFFICIAL KNOWLEDGE-BASE DOCUMENTS
+
+Only five policy Markdown documents were available when this package was prepared.
+The capstone brief requires 21 KB documents. Add the remaining official documents from
+the original dataset's kb/ folder before claiming the project dataset is complete.

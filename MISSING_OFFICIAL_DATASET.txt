@@ -1,0 +1,16 @@
+MISSING OFFICIAL DATASET FILES
+
+This folder intentionally contains a notice only. The official CSV dataset was not available
+in the ChatGPT workspace at packaging time.
+
+Required official CSV files:
+  customers.csv (300 rows)
+  orders.csv (1,000 rows)
+  order_items.csv (1,783 rows)
+  products.csv (70 rows)
+  pincodes.csv (36 rows)
+  holidays.csv (4 rows)
+  support_logs.csv (244 rows)
+
+Do not replace these with invented records and claim they are official.
+Obtain them from Capstone_Project_Dataset_FTTT_2026.zip and place them in this data/ folder.
