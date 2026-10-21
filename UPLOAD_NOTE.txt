@@ -1,0 +1,5 @@
+PARTIAL KB UPLOAD — NOT THE COMPLETE OFFICIAL DATASET
+
+This archive contains only five policy Markdown files currently available in the ChatGPT workspace.
+The VoiceOps capstone brief requires 21 knowledge-base documents. Do not treat this archive as the complete KB.
+To complete the project, extract the official Capstone_Project_Dataset_FTTT_2026.zip on your phone and upload all 21 files from its kb/ folder, preserving the kb/ directory structure.
